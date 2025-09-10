@@ -1,2 +1,2 @@
 # Coan
-Citizen of all nations 
+Citizens of all nations 
